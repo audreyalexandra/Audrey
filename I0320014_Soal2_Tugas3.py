@@ -1,6 +1,6 @@
 #membuat dictionary
 
-dict = {'Name': 'Audrey', 'Hobi1': 'Nonton', 'Hobi2': 'Jalan-jalan', 'Hobi3': 'Ngemil', 'Line': 'audrey.18', 'Instagram': 'audreyalexandraa', 'Snapchat': 'ordryy', 'Lagu1': 'Say Something', 'Lagu2': 'Fix You', 'Lagu3': 'Hall Of Fame', 'Lagu4': 'Supermarket Flowers', 'Makanan1': 'Nasi bebek', 'Makanan2': 'Martabak', 'Makanan3': 'Cumi Tepung'}
+dict = {'Name': 'Audrey', 'Hobi1': 'Nonton', 'Hobi2': 'Jalan-jalan', 'Hobi3': 'Ngemil', 'Sosmed1': 'Line: audrey.18', 'Sosmed2': 'Instagram: audreyalexandraa', 'Sosmed3': 'Snapchat: ordryy', 'Lagu1': 'Say Something', 'Lagu2': 'Fix You', 'Lagu3': 'Hall Of Fame', 'Lagu4': 'Supermarket Flowers', 'Makanan1': 'Nasi bebek', 'Makanan2': 'Martabak', 'Makanan3': 'Cumi Tepung'}
 
 print(dict)
 
